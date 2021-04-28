@@ -1,0 +1,3 @@
+8412345678905,2020-12-30,Ingeniero,Desarrollo de Aplicaciones en Java,Requerimientos Java y PHP,2500,false
+8411145678900,2019-09-20,Licenciado de Matematicas,Profesor de Matematicas,Master en Educacion,1800,true
+8421345678907,2015-1-15,Programador Java,Profesor de Programacion en DAW,Profesor CDP Jose Cabrera,2000,false
